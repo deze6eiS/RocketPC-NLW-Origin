@@ -1,6 +1,6 @@
 # :rocket: RocketPC (NLW - Origin):
 
-Projeto desenvolvido com base nas aulas realizada na semana NWL da [Rocketseat](https://app.rocketseat.com.br/)
+Projeto desenvolvido com base nas aulas realizada na semana NWL da [Rocketseat](https://app.rocketseat.com.br/).
 
 
 # :computer: Link da aplicação:
